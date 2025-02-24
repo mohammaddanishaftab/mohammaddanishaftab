@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/927af0d0-d9d0-412d-9688-4848f5a73bfb)
+
 
 ```markdown
 <div align="center">
@@ -20,8 +22,7 @@
 <br />
 
 ### Desktop Preview
-
-https://github.com/mohammaddanishaftab/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
+https://mohammaddanishaftab.github.io/mohammaddanishaftab/
 
 ### Prerequisites
 
@@ -139,7 +140,9 @@ git clone https://github.com/mohammaddanishaftab/portfolio-website.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithdanish/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/mohammaddanishaftab/).
+or
+reach me at [Whatsapp](+92315-5068143).
 
 ### License
 
